@@ -1,0 +1,3 @@
+Welcome to the official API reference documentation for Node.js!
+
+Throughout the documentation are indications of a section's stability. Some APIs are so proven and so relied upon that they are unlikely to ever change at all. Others are brand new and experimental, or known to be hazardous.

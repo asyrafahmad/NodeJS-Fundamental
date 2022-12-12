@@ -1,0 +1,10 @@
+npm init --yes                            - to initiate package.json
+tsc --init                                - to configure typescript
+npm install @types/node                   - to install node modules for nodejs 
+
+
+TO RUN TS PROG
+1. tsc app.ts node app.js / ts-node app.ts 
+2. nodemon app.ts (server) 
+3. npm start
+   
